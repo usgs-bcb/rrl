@@ -1,2 +1,2 @@
-# rrl
-Research Reference Library
+# Research Reference Library
+The Research Reference Library is another component of the Biogeographic Information System. It contains information on research articles of interest in our work and needed as persistent references that we build on over time. This will include journal articles, government reports, and other literature sources along with the concept of microcitations (parts of larger works) that we are extracting and referencing in different ways to build data and provide more specific references in our work.
